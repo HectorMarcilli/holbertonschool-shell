@@ -7,3 +7,4 @@ This directory contains basic Bash scripts for the Holberton School shell projec
 - **3-listfiles**: Displays the contents of the current directory in a long format.
 - **4-listmorefiles**: Displays the contents of the current directory, including hidden files, in a long format.
 - **5-listfilesdigitonly**: Displays the contents of the current directory, including hidden files, in a long format with user and group IDs shown numerically.
+- **6-firstdirectory**: Creates a directory named my_first_directory in the /tmp/ directory.
