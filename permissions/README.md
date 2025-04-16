@@ -8,3 +8,6 @@ This directory contains Bash scripts for the Holberton School shell project, foc
 - **4-empty**: Creates an empty file called hello.
 - **5-execute**: Adds execute permission to the owner of the file hello.
 - **6-multiple_permissions**: Adds execute permission to the owner and group owner, and read permission to other users, for the file hello.
+- **7-everybody**: Adds execute permission to the owner, group owner, and other users for the file hello.
+- **8-James_Bond**: Sets permissions on the file hello to no permissions for owner and group, and all permissions for others.
+- **9-John_Doe**: Sets the mode of the file hello to -rwxr-x-wx.
