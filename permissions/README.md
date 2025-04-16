@@ -11,3 +11,6 @@ This directory contains Bash scripts for the Holberton School shell project, foc
 - **7-everybody**: Adds execute permission to the owner, group owner, and other users for the file hello.
 - **8-James_Bond**: Sets permissions on the file hello to no permissions for owner and group, and all permissions for others.
 - **9-John_Doe**: Sets the mode of the file hello to -rwxr-x-wx.
+- **10-mirror_permissions**: Sets the mode of the file hello to match the mode of the file olleh.
+- **11-directories_permissions**: Adds execute permission to all subdirectories for owner, group, and others, without changing regular files.
+- **12-directory_permissions**: Creates a directory called my_dir with permissions 751.
