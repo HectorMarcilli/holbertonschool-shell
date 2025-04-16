@@ -14,3 +14,8 @@ This directory contains basic Bash scripts for the Holberton School shell projec
 - **10-back**: Changes the working directory to the previous one.
 - **11-lists**: Lists all files, including hidden ones, in the current directory, its parent, and /boot, in long format.
 - **12-file_type**: Prints the type of the file iamafile in /tmp/.
+- **13-symbolic_link**: Creates a symbolic link named __ls__ to /bin/ls in the current directory.
+- **14-copy_html**: Copies newer or non-existent .html files from the current directory to the parent directory.
+- **15-lets_move**: Moves files starting with an uppercase letter to /tmp/u.
+- **16-clean_emacs**: Deletes files ending with ~ in the current directory.
+- **17-tree**: Creates the directory structure welcome/to/school in the current directory.
