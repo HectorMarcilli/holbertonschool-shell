@@ -8,3 +8,5 @@ This directory contains basic Bash scripts for the Holberton School shell projec
 - **4-listmorefiles**: Displays the contents of the current directory, including hidden files, in a long format.
 - **5-listfilesdigitonly**: Displays the contents of the current directory, including hidden files, in a long format with user and group IDs shown numerically.
 - **6-firstdirectory**: Creates a directory named my_first_directory in the /tmp/ directory.
+- **7-movethatfile**: Moves the file betty from /tmp/ to /tmp/my_first_directory.
+- **8-firstdelete**: Deletes the file betty from /tmp/my_first_directory.
