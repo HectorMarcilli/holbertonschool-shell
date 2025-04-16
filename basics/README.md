@@ -5,3 +5,4 @@ This directory contains basic Bash scripts for the Holberton School shell projec
 - **1-listit**: Lists the contents of the current directory.
 - **2-bring_me_home**: Changes the working directory to the user’s home directory.
 - **3-listfiles**: Displays the contents of the current directory in a long format.
+- **4-listmorefiles**: Displays the contents of the current directory, including hidden files, in a long format.
